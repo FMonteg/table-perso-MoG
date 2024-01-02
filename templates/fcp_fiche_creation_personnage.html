@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fiche création de personnage</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='fcp_sheet_style.css') }}">
+    
+</head>
+<body>
+    <div class="character-sheet">
+        <h1>Personnage aléatoire - Tables créées par Morgan of Glencoe</h1>
+        
+
+        <div class="section">
+            <h1>Traits caractéristiques</h1>
+            <div class="traits">
+                <p><span class="attribute">Âge :</span> {{ character.age }}</p>
+                <p><span class="attribute">Corpulence :</span> {{ character.corpulence }}</p>
+                <p><span class="attribute">Couleur de peau :</span> {{ character.peau }}</p>
+                <p><span class="attribute">Couleur de cheveux :</span> {{ character.cheveux }}</p>
+                <p><span class="attribute">Couleur des yeux :</span> {{ character.yeux }}</p>
+                <p><span class="attribute">Genre :</span> {{ character.genre }}</p>
+                <p><span class="attribute">Nez :</span> {{ character.nez }}</p>
+                <p><span class="attribute">Posture :</span> {{ character.posture }}</p>
+                <p><span class="attribute">Taille :</span> {{ character.taille }}</p>
+                <p><span class="attribute">Visage :</span> {{ character.visage }}</p>
+            </div>
+        </div>
+
+
+        <button class="refresh-button" type="button" onclick="refreshCharacter()">Nouveau PNJ</button>
+
+    </div>
+
+    <script>
+        function refreshCharacter() {
+            location.reload(); // Reload the page
+        }
+    </script>
+</body>
+</html>

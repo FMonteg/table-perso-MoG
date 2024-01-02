@@ -1,0 +1,188 @@
+1D4
+Couleur des yeux
+1
+Noir
+2
+Brun
+3
+Vert
+4
+Bleu
+1D6
+Couleur des cheveux
+1
+Noir
+2
+Brun
+3
+Châtain
+4
+Blond
+5
+Roux
+6
+Blanc
+1D8
+Taille
+1
+Nanisme (-1m30)
+2
+Très petit (1m40)
+3
+Petit (1m50)
+4
+Assez petit (1m60)
+5
+Moyen (1m70)
+6
+Assez grand (1m80)
+7
+Grand (1m90)
+8
+Très grand (+2m)
+1D10
+Corpulence
+1
+Famélique
+2
+Maigre
+3
+Mince
+4
+Moyenne
+5
+Athlétique
+6
+Musclé
+7
+Potelé
+8
+Corpulent
+9
+Gros
+10
+Obèse
+1D12
+Couleur de peau
+1
+Blafard
+2
+Blême/diaphane
+3
+Pâle
+4
+Claire
+5
+Dorée
+6
+Mate
+7
+Hâlée
+8
+Bronzée
+9
+Tannée
+10
+Olivâtre
+11
+Brune
+12
+Brune sombre
+1D20
+Âge
+1
+0-2 ans
+2
+3-5 ans
+3
+6-8 ans
+4
+9-12 ans
+5
+13-14 ans
+6
+15-17 ans
+7
+18-22 ans
+8
+23-25 ans
+9
+26-30 ans
+10
+31-35 ans
+11
+36-40 ans
+12
+41-45 ans
+13
+46-50 ans
+14
+51-55 ans
+15
+56-60 ans
+16
+61-65 ans
+17
+66-70 ans
+18
+71-75 ans
+19
+76-80 ans
+20
++ 81 ans
+1D6
+Visage
+1
+Émacié
+2
+Anguleux
+3
+Fin
+4
+Rond
+5
+Carré
+6
+Joufflu
+1D6
+Nez
+1
+Aquilin
+2
+Mutin
+3
+En trompette
+4
+Épaté
+5
+Cassé
+6
+Busqué
+1D6
+Genre
+1
+Cis F
+2
+Cis M
+3
+Trans F
+4
+Trans M
+5
+NB
+6
+Agenre
+1D6
+Posture
+1
+Altière
+2
+Raide
+3
+Détendue
+4
+Voûtée
+5
+Affaissée
+6
+Cambrée
